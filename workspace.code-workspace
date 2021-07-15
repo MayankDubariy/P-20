@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Astronaut's daily routine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Astronaut's daily routine",
+		"liveServer.settings.port": 5501
+	}
+}
